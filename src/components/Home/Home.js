@@ -1,22 +1,24 @@
 import React from "react";
-import { Link } from "react-router-dom";
+import useServices from "../Hook/useServises";
+import Service from "../Service/Service";
 import "./Home.css";
 const Home = () => {
+  const [services] = useServices();
   return (
-    <div className="home ">
-      <div class="content">
-        <h3>
-          fresh and <span>organic</span> products for your
-        </h3>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit.
-          Necessitatibus soluta iure corporis nihil ullam vel!
-        </p>
-        <Link to="#" className="btn">
-          buy now
-        </Link>
-      </div>
-    </div>
+    <>
+      <div className="home flex items-center justify-center"></div>
+      <section className="service-home my-12">
+        <h1 className="heading text-center text-6xl">
+          our <span className="inline-block">services</span>
+        </h1>
+        <div className="box-container grid ">
+          {services.map(
+            (service) =>
+              service.category && <Service service={service} key={service.id} />
+          )}
+        </div>
+      </section>
+    </>
   );
 };
 

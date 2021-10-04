@@ -1,9 +1,9 @@
 import React from 'react';
-
+import './Footer.css'
 const Footer = () => {
     return (
-        <div>
-            <p className="text-center bg-gray-500 p-4">All rights reserved.</p>
+        <div className="footer">
+            <p className="text-center py-8 text-2xl">All rights reserved.</p>
         </div>
     );
 };

@@ -1,4 +1,5 @@
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import About from "./components/About/About";
 import Footer from "./components/Footer/Footer";
 import Gallery from "./components/Gallery/Gallery";
 import Header from "./components/Header/Header";
@@ -23,6 +24,9 @@ function App() {
           </Route>
           <Route path="/gallery">
             <Gallery />
+          </Route>
+          <Route path="/about">
+            <About />
           </Route>
           <Route path="*">
             <NotFound />

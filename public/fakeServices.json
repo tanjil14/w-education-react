@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "title": "Logo/Icons Designing",
+    "img": "https://s3.us-east-1.amazonaws.com/storage.trumplearning.com/cmsfiles/logodesign-in-illustrator-5b5xrpb2.jpg",
+    "category": "Graphic Designing",
+    "description": "These logo design ideas will help you design a logo that's perfect for your brand...",
+    "duration": "4Months(16weeks)",
+    "time": "3 sessions of 2 hours in a week."
+  },
+  {
+    "id": 2,
+    "img": "https://i.pinimg.com/originals/f2/d6/c3/f2d6c33186a12dcb91e01de59e96dfec.jpg",
+    "title": "Design Awesome Graphics For Social Media with Canva ",
+    "description": "You will learn the fundamental principles of graphic design that will allow you to create compelling social media images .",
+    "duration": "4Months(16weeks)",
+    "time": "3 sessions of 2 hours in a week."
+  },
+  {
+    "id": 3,
+    "img": "https://freetutsdownload.com/wp-content/uploads/2020/11/Graphic-Design-Masterclass-Learn-Graphic-Design-in-Projects.jpg",
+    "title": "Complete Graphics Design and Video Editing Masterclass",
+    "description": "Combo Course of Adobe Premiere Pro CC and Adobe Photoshop CC for Learning Video Editing and Graphics Design ",
+    "time": "3 sessions of 2 hours in a week."
+  },
+  {
+    "id": 4,
+    "title": "Learn HTML/CSS",
+    "img": "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/28380357/original/de2d5a89046e990809433c81c32c7505699c07f6/fix-html-css-and-bootstrap-errors-for-you.jpg",
+    "category": "web development",
+    "description": "This course is for both beginners and seasoned developers that want to learn how to build responsive websites and user interfaces with modern HTML5 and CSS3+ technologies",
+    "duration": "4Months(16weeks)",
+    "time": "3 sessions of 2 hours in a week."
+  },
+  {
+    "id": 5,
+    "title": "The Web Developer Bootcamp 2021",
+    "img": "https://i.ytimg.com/vi/kjBvQWHk_KI/maxresdefault.jpg",
+    "description": "The ins and outs of HTML5, CSS3, and Modern JavaScript for 2021.Create responsive, accessible, and beautiful layouts",
+    "duration": "4Months(16weeks)",
+    "time": "3 sessions of 2 hours in a week."
+  },
+  {
+    "id": 6,
+    "category": "web development",
+    "img": "https://freetutorialsudemy.com/wp-content/uploads/images/image_the-complete-2020-web-development-bootcamp-2020.jpg",
+    "title": "The Complete 2021 Web Development Bootcamp ",
+    "description": "Become a full-stack web developer with just one course. HTML, CSS, Javascript, Node, React, MongoDB and more! ",
+    "duration": "4Months(16weeks)",
+    "time": "3 sessions of 2 hours in a week."
+  },
+  {
+    "id": 7,
+    "title": "Learn Fundamentals",
+    "category": "basic",
+    "img": "https://i.ytimg.com/vi/mybYCf4Mov4/maxresdefault.jpg",
+    "description": "Basic Hardware,Software,Privacy, Security, Backup Guide And Troubleshooting Tips To Use A Computer Running On Windows 10",
+    "duration": "4Months(16weeks)",
+    "time": "3 sessions of 2 hours in a week."
+  },
+  {
+    "id": 8,
+    "title": "Learn MS-Excel",
+    "img": "https://merientinfotech.com/wp-content/uploads/2019/12/microsoft-office-training-course.png",
+    "description": "Master 75+ MS Excel formulas and learn data analysis with a top Microsoft Excel & business intelligence instructor ",
+    "duration": "4Months(16weeks)",
+    "time": "3 sessions of 2 hours in a week."
+  },
+  {
+    "id": 9,
+    "title": "Learn MS-Office",
+    "img": "https://jupitervidya.com/wp-content/uploads/2019/08/ms-office-course.jpg",
+    "description": "Introduction Microsoft office Applications have taken immense importance in contemporary business and your daily life.",
+    "duration": "4Months(16weeks)",
+    "time": "3 sessions of 2 hours in a week."
+  }
+]

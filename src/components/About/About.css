@@ -1,0 +1,9 @@
+.about img {
+  width: 50%;
+  text-align: center;
+  border: none;
+  margin-bottom: 15rem;
+}
+.about h2 {
+  color: var(--black);
+}

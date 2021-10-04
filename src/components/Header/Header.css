@@ -1,10 +1,37 @@
-.header{
+.header {
   background: #fff;
 }
 .header .navbar .link {
   color: #130f40;
-  margin:0 1rem;
+  margin: 0 1rem;
 }
 .header .navbar .link:hover {
   color: #ff7800;
+}
+#menu-btn {
+  display: none;
+}
+
+@media (max-width: 768px) {
+  #menu-btn {
+    display: inline-block;
+  }
+  .header .navbar.active {
+    right: 2rem;
+    transition: 0.4s linear;
+  }
+  .header .navbar {
+    position: absolute;
+    top: 110%;
+    right: -110%;
+    width: 30rem;
+    box-shadow: var(--box-shadow);
+    border-radius: 0.5rem;
+    background: #fff;
+  }
+  .header .navbar .link {
+    font-size: 2rem;
+    margin: 2rem 2.5rem;
+    display: block;
+  }
 }
