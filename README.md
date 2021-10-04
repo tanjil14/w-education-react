@@ -1,6 +1,6 @@
 # W-Education
 
-[Quick visit](https://w-education.netlify.app/abou)
+[Quick visit](https://w-education.netlify.app)
 
 ## In this project:
 
