@@ -1,0 +1,73 @@
+[
+  {
+    "id": 1,
+    "title": "Logo/Icons Designing",
+    "category": "Graphic Designing",
+    "description": "These logo design ideas will help you design a logo that's perfect for your brand...",
+    "duration": "4Months(16weeks)",
+    "time": "3 sessions of 2 hours in a week."
+  },
+  {
+    "id": 2,
+    "title": "Design Awesome Graphics For Social Media with Canva ",
+    "category": "graphic designing",
+    "description": "You will learn the fundamental principles of graphic design that will allow you to create compelling social media images .",
+    "duration": "4Months(16weeks)",
+    "time": "3 sessions of 2 hours in a week."
+  },
+  {
+    "id": 3,
+    "title": "Complete Graphics Design and Video Editing Masterclass",
+    "category": "Graphic Designing",
+    "description": "Combo Course of Adobe Premiere Pro CC and Adobe Photoshop CC for Learning Video Editing and Graphics Design ",
+    "time": "3 sessions of 2 hours in a week."
+  },
+  {
+    "id": 4,
+    "title": "Learn HTML/CSS",
+    "category": "web development",
+    "description": "This course is for both beginners and seasoned developers that want to learn how to build responsive websites and user interfaces with modern HTML5 and CSS3+ technologies",
+    "duration": "4Months(16weeks)",
+    "time": "3 sessions of 2 hours in a week."
+  },
+  {
+    "id": 5,
+    "title": "The Web Developer Bootcamp 2021",
+    "category": "web development",
+    "description": "The ins and outs of HTML5, CSS3, and Modern JavaScript for 2021.Create responsive, accessible, and beautiful layouts",
+    "duration": "4Months(16weeks)",
+    "time": "3 sessions of 2 hours in a week."
+  },
+  {
+    "id": 6,
+    "title": "The Complete 2021 Web Development Bootcamp ",
+    "category": "web development",
+    "description": "Become a full-stack web developer with just one course. HTML, CSS, Javascript, Node, React, MongoDB and more! ",
+    "duration": "4Months(16weeks)",
+    "time": "3 sessions of 2 hours in a week."
+  },
+  {
+    "id": 7,
+    "title": "Learn Fundamentals",
+    "category": "basic",
+    "description": "Basic Hardware,Software,Privacy, Security, Backup Guide And Troubleshooting Tips To Use A Computer Running On Windows 10",
+    "duration": "4Months(16weeks)",
+    "time": "3 sessions of 2 hours in a week."
+  },
+  {
+    "id": 8,
+    "title": "Learn MS-Excel",
+    "category": "basic",
+    "description": "Master 75+ MS Excel formulas and learn data analysis with a top Microsoft Excel & business intelligence instructor ",
+    "duration": "4Months(16weeks)",
+    "time": "3 sessions of 2 hours in a week."
+  },
+  {
+    "id": 9,
+    "title": "Learn MS-Office",
+    "category": "basic",
+    "description": "Introduction Microsoft office Applications have taken immense importance in contemporary business and your daily life.",
+    "duration": "4Months(16weeks)",
+    "time": "3 sessions of 2 hours in a week."
+  }
+]
