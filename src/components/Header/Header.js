@@ -10,7 +10,7 @@ const Header = () => {
   };
   return (
     <header className="header  fixed -inset-x-0 top-0 z-50 flex items-center justify-between py-8 px-36 shadow-myBox">
-      <Link to="/" className="logo text-gray-900 text-4xl font-bold ">
+      <Link to="/" className="logo text-gray-900 text-4xl md:text-5xl font-bold ">
         webful<span className="text-yellow-500">Education</span>
       </Link>
       {/* navigation menu start */}
@@ -31,7 +31,7 @@ const Header = () => {
       {/* navigation menu end   */}
 
       <div id="menu-btn">
-        <FontAwesomeIcon onClick={handleClick} icon={faBars} />
+        <FontAwesomeIcon className="text-4xl" onClick={handleClick} icon={faBars} />
       </div>
     </header>
   );

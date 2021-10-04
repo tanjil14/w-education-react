@@ -8,8 +8,11 @@
   outline: var(--outline-hover);
   outline-offset: 0;
 }
-
+.box img{
+  margin: 0 auto;
+}
 .box h3 {
+  margin-top: 2rem;
   font-size: 2rem;
   color: var(--black);
   line-height: 1;
